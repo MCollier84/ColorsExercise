@@ -35,5 +35,7 @@ p {
     background-color: violet;
 }
 
-
+li:nth-of-type(2n + 1) {
+    border: 5px solid green
+}
 
